@@ -1,0 +1,1 @@
+ALTER TABLE "todos" ADD COLUMN "isComplete" boolean DEFAULT false;

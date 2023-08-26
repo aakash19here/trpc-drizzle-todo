@@ -1,0 +1,1 @@
+ALTER TABLE "todos" ALTER COLUMN "author" SET NOT NULL;
